@@ -19,7 +19,7 @@ Use the following commands to setup idb and its dependencies:
 ```
 brew tap facebook/fb
 brew install idb-companion
-pip3.6 install fb-idb
+pip3 install fb-idb
 ```
 
 
